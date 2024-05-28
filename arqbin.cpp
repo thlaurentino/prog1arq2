@@ -5,7 +5,7 @@ using namespace std;
 
 struct Dados {
     int id;
-    string nome;
+    char nome[40];
 };
 
 int main(){
